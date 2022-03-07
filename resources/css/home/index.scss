@@ -1,0 +1,12 @@
+.index_layout {
+    height: 100vh;
+
+    .ant-layout-header {
+        background: #fff;
+    }
+
+    .site-layout-content {
+        min-height: 90vh;
+        padding: 24px;
+    }
+}

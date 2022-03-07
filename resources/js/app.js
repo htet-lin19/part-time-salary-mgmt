@@ -13,7 +13,7 @@ require("./bootstrap");
  */
 
 import ReactDOM from "react-dom";
-import Index from "./components/Index";
+import Index from "./components/Home/Index";
 
 if (document.getElementById("app")) {
     ReactDOM.render(<Index />, document.getElementById("app"));

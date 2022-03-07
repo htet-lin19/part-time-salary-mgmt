@@ -26970,4 +26970,13 @@ div.ant-typography-edit-content.ant-typography-rtl {
   margin: 8px 0 0;
   padding: 0;
 }
-
+.index_layout {
+  height: 100vh;
+}
+.index_layout .ant-layout-header {
+  background: #fff;
+}
+.index_layout .site-layout-content {
+  min-height: 90vh;
+  padding: 24px;
+}
